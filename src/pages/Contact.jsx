@@ -243,7 +243,7 @@ export default function Contact() {
                 </div>
                 <div className="info-content">
                   <h4>Location</h4>
-                  <p>5th floor, Sandhya Techno 1, Rai Durg, Hyderabad, Telangana 500032</p>
+                  <p>Survey No.6, MR Prime, 1st floor, BP Raju Marg, Whitefields, Kondapur, Hyderabad, Telangana 500084</p>
                 </div>
               </div>
             </div>
@@ -268,7 +268,7 @@ export default function Contact() {
         {/* Embedded Google Map */}
         <div className="map-section" style={{ marginTop: '3rem', borderRadius: '1.5rem', overflow: 'hidden' }}>
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15224.999272541626!2d78.3724912270967!3d17.44775315866768!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb93dc8c5d69df%3A0x19688eb5c550c0!2sHITEC%20City%2C%20Hyderabad%2C%20Telangana%2C%20India!5e0!3m2!1sen!2sus!4v1707246543123!5m2!1sen!2sus"
+            src="https://maps.google.com/maps?q=MR+Prime,+BP+Raju+Marg,+Whitefields,+Kondapur,+Hyderabad,+Telangana+500084&z=16&output=embed"
             width="100%"
             height="400"
             style={{ border: 0, display: 'block' }}
