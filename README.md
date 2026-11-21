@@ -46,8 +46,8 @@ A modern, high-performance recreation and upgrade of the [CodeBoomz](https://cod
    - Custom course selector dropdown with tech logos.
    - Working contact form with Google Apps Script endpoint integration.
    - Direct call card (`+91 832-8083619`) and official email (`codeboomz@gmail.com`).
-   - Office location: *5th floor, Sandhya Techno 1, Rai Durg, Hyderabad, Telangana 500032*.
-   - Embedded interactive Google Map (HITEC City, Hyderabad).
+   - Office location: *Survey No.6, MR Prime, 1st floor, BP Raju Marg, Whitefields, Kondapur, Hyderabad, Telangana 500084*.
+   - Embedded interactive Google Map (Kondapur, Hyderabad).
    - FAQ accordion and animated Success Confirmation Modal.
 
 7. **Brand Showcase (`/be-beauty`)**
